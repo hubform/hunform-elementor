@@ -1,0 +1,48 @@
+# Copyright (C) 2024 Hubform
+# This file is distributed under the same license as the Hubform para Elementor plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hubform para Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hubform-para-elementor\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-09-27T12:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: hubform-para-elementor\n"
+"Language: es_ES\n"
+
+#: hubform-para-elementor.php:XX
+msgid "Hubform para Elementor"
+msgstr "Hubform para Elementor"
+
+#: hubform-para-elementor.php:XX
+msgid "URL do seu formulário no Hubform"
+msgstr "URL de su formulario en Hubform"
+
+#: hubform-para-elementor.php:XX
+msgid "Falha ao enviar dados para o Hubform."
+msgstr "Error al enviar datos a Hubform."
+
+#. Plugin Name of the plugin
+msgid "Hubform para Elementor"
+msgstr "Hubform para Elementor"
+
+#. Plugin URI of the plugin
+msgid "https://hubform.com.br/hubform-para-elementor"
+msgstr "https://hubform.com.br/hubform-para-elementor"
+
+#. Description of the plugin
+msgid "Envia dados de formulários do Elementor para seu Hubform."
+msgstr "Envía datos de formularios de Elementor a su Hubform."
+
+#. Author of the plugin
+msgid "Hubform"
+msgstr "Hubform"
+
+#. Author URI of the plugin
+msgid "https://hubform.com.br"
+msgstr "https://hubform.com.br"
